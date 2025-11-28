@@ -49,7 +49,7 @@
   },
   "dependencies": {
     "@google/chat-sdk": "^0.2.5",
-    "@google-cloud/dialogflow": "^4.4.0",
+    "@google-cloud/dialogflow": "^6.0.0",
     "debug": "^4.3.2",
     "pb-util": "^1.0.1",
     "express": "^4.17.1"
